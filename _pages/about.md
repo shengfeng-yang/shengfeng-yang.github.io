@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Dr. Shengfeng Yang's Research Website"
 author_profile: true
 redirect_from: 
   - /about/
