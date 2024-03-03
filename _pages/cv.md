@@ -11,36 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, University of Florida, 2014
+* M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
+* B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Assitant Professor of Mechanical Engineering
+  * Purdue University in Indianapolis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2024: Assitant Professor of Mechanical Engineering
+  * Indiana University Purdue University in Indianapolis (IUPUI)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2017: Postdoctoral Researcher
+  * University of California, San Diego
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
