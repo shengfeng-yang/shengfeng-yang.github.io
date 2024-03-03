@@ -1,6 +1,6 @@
 ---
 title: "Integrating uncertainty quantification into deep learning"
-excerpt: "Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties<br/><img src='/images/uncertainty-DL.png'>"
+excerpt: "Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties<br/><img src='/images/uncertainty-DL.jpeg'>"
 collection: portfolio
 ---
 
