@@ -12,7 +12,7 @@ title                    : "Dr. Shengfeng Yang"
 title_separator          : "-"
 name                     : &name "Dr. Shengfeng Yang"
 description              : &description "Assistant Professor of Mechanical Engineering"
-url                      : https://shengfeng-yang.github.io/
+url                      : https://shengfeng-yang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shengfeng-yang.github.io"
 
