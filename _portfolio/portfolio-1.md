@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Integrating uncertainty quantification into deep learning"
+excerpt: "Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties<br/><img src='/images/uncertainty-DL.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, we are working on developing a novel deep-learning framework that incorporates quantified uncertainty for predicting the mechanical properties of nanocomposite materials, specifically taking into account their morphology and composition. Due to the intricate microstructures of nanocomposites and their dynamic changes under diverse conditions, traditional methods, such as molecular dynamics simulations, often impose significant computational burdens. Our machine learning models, trained on comprehensive material datasets, provide a lower computational cost alternative, facilitating rapid exploration of design spaces and more reliable predictions. We employ both convolutional neural networks and feedforward neural networks for our predictions, training separate models for yield strength and ultimate tensile strength. Furthermore, we integrate uncertainty quantification into our models, thereby providing confidence intervals for our predictions and making them more reliable. This study paves the way for advancements in predicting the properties of nanocomposite materials and could potentially be expanded to cover a broad spectrum of materials in the future.
