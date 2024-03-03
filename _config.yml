@@ -21,7 +21,7 @@ repository               : "shengfeng-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yangsf.png"
   name             : "Dr. Shengfeng Yang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Mechanical Engineering at Purdue University in Indianapolis"
