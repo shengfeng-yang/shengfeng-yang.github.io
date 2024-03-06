@@ -23,4 +23,4 @@ Our focus is on developing advanced algorithms in machine learning to drive inno
 
 Robotics 
 ======
-Developing algorithms to equip robots with capabilities in manipulation, perception, planning, search, and reasoning.
+We are committed to advancing state-of-the-art algorithms that enhance the capabilities of robots in manipulation, perception, planning, search, and reasoning.
