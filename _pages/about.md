@@ -13,12 +13,12 @@ Innovative Materials and Structures Design
 ======
 Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains, including battery technology, nuclear energy, and the semiconductor sector.
 
-Computational modeling and simulation
-------
+Computational Modeling and Simulation
+======
 We employ computational modeling and simulation techniques to predict the behavior and properties of materials.
 
-Machine learning algorithms
-------
+Machine Learning Algorithms
+======
 Our focus is on developing advanced algorithms in machine learning to drive innovation and solve complex problems.
 
 Robotics 
