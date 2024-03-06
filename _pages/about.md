@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Shengfeng Yang's research website. My group focuses on working on the following areas:
+Welcome to Dr. Shengfeng Yang's research group website. Our team is dedicated to advancing research in the following areas:
 
-Robotics 
+Innovative Materials and Structures Design
 ======
-Focus on developing advanced machine learning algorithms for designing new materials and structures.
-
-Machine learning algorithm development
-======
-Focus on developing advanced machine learning algorithms for designing new materials and structures.
+Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains, including battery technology, nuclear energy, and the semiconductor sector.
 
 Computational modeling and simulation
 ------
-Utilize modeling and simulation to predict material behavior and properties.
+We employ computational modeling and simulation techniques to predict the behavior and properties of materials.
 
 Machine learning algorithms
 ------
-Focus on developing advanced machine learning algorithms.
+Our focus is on developing advanced algorithms in machine learning to drive innovation and solve complex problems.
+
+Robotics 
+======
+Developing algorithms to equip robots with capabilities in manipulation, perception, planning, search, and reasoning.
