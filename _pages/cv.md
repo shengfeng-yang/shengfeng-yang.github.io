@@ -20,8 +20,8 @@ Work experience
 * 2024-present: Assitant Professor of Mechanical Engineering
   * Purdue University in Indianapolis
 
-* 2017-2024: Assitant Professor of Mechanical Engineering
-  * Indiana University Purdue University in Indianapolis (IUPUI)
+* 2017-2024: Assitant Professor of Mechanical and Energy Engineering
+  * Indiana University-Purdue University Indianapolis (IUPUI)
 
 * 2015-2017: Postdoctoral Researcher
   * University of California, San Diego
