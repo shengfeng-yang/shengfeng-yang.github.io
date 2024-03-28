@@ -1,8 +1,9 @@
 ---
-title: "A Machine Learning Framework for Preventing Cracking in Semiconductor Materials"
-excerpt: "A NSF-supported project in developing a novel method that integrates machine learning techniques with fundamental principles of mechanics to predict crack formation in semiconductor materials"
+title: "Mechanics-Informed Robot Perception, Learning, and Manipulation"
+excerpt: "This project integrates mechanics principles with artificial intelligence to enhance robotic capabilities"
 collection: portfolio
 ---
 
-In the field of modern electronics and artificial intelligence, the performance and quality of semiconductor materials are crucial. These materials are critical to advanced technologies for a wide range of applications. A significant challenge in the production of these materials is the cooling process. During the production phase, semiconductor materials are prone to cracking as they cool. These cracks can lead to failures in the final products, decreased reliability, and higher manufacturing costs. This award supports fundamental research to address this challenge by aiming to prevent the formation of cracks during the semiconductor cooling process. We will develop a novel method that integrates machine learning techniques with fundamental principles of mechanics to predict crack formation. The proposed research in this project promises to enhance production of high-quality semiconductor materials. 
+This project integrates mechanics principles with artificial intelligence to enhance robotic capabilities in unstructured environments. By fusing mechanics with machine learning and computer vision, robots can better understand their surroundings, predict object behavior, and adapt to changes, transcending traditional limitations.
 
+This project aims to develop advanced algorithms for improved interaction and adaptive manipulation, leveraging mechanics-based models for improved perception and prediction. Such advancements promise to revolutionize robotic applications across various sectors, including industrial automation, healthcare, and disaster response, marking a significant leap toward autonomous, intelligent robotic systems.
