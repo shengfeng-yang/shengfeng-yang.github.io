@@ -12,19 +12,20 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, University of Florida, 2014
+* M.S. in Computer Science, University of Texas, Austin, 2024
 * M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
 * B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
 Work experience
 ======
-* 2024-present: Assitant Professor of Mechanical Engineering
-  * Purdue University in Indianapolis
+* 2024/07-present: Assitant Professor of Mechanical Engineering
+  * Purdue University, Indianapolis, IN
 
-* 2017-2024: Assitant Professor of Mechanical and Energy Engineering
+* 2017/08-2024/06: Assitant Professor of Mechanical and Energy Engineering
   * Indiana University-Purdue University Indianapolis (IUPUI)
 
-* 2015-2017: Postdoctoral Researcher
-  * University of California, San Diego
+* 2015/03-2017/07: Postdoctoral Researcher
+  * University of California, San Diego, CA
   
 Publications
 ======

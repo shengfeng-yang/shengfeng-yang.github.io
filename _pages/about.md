@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dr. Shengfeng Yang's research group website. Our team is dedicated to advancing research in the following areas:
+Welcome to the website of Dr. Shengfeng Yang's research group at Purdue University. Our group is dedicated to advancing research in the following areas:
 
 Innovative Materials and Structures Design
 ======
-Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains, including battery technology, nuclear energy, and the semiconductor sector.
+Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains, including battery technology, and the semiconductor sector.
 
 Computational Modeling and Simulation
 ======
