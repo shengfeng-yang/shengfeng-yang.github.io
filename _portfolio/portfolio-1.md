@@ -1,5 +1,5 @@
 ---
-title: "A Machine Learning Framework for Preventing Cracking in Semiconductor Materials"
+title: "A Machine Learning Framework for Semiconductor Materials"
 excerpt: "A NSF-supported project in developing a novel method that integrates machine learning techniques with fundamental principles of mechanics to predict crack formation in semiconductor materials"
 collection: portfolio
 ---
