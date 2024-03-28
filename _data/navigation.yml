@@ -1,9 +1,6 @@
 # main links links
 main:
   - title: "Research Projects"
-    url: /portfolio/
-        
-  - title: "Research Projects"
     url: /researchprojects/
         
   - title: "Publications"
