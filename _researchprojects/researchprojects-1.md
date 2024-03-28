@@ -1,7 +1,7 @@
 ---
 title: "A Machine Learning Framework for Semiconductor Materials"
 excerpt: "A NSF-supported project in developing a novel method that integrates machine learning techniques with fundamental principles of mechanics to predict crack formation in semiconductor materials"
-collection: portfolio
+collection: researchprojects
 ---
 
 In the field of modern electronics and artificial intelligence, the performance and quality of semiconductor materials are crucial. These materials are critical to advanced technologies for a wide range of applications. A significant challenge in the production of these materials is the cooling process. During the production phase, semiconductor materials are prone to cracking as they cool. These cracks can lead to failures in the final products, decreased reliability, and higher manufacturing costs. This award supports fundamental research to address this challenge by aiming to prevent the formation of cracks during the semiconductor cooling process. We will develop a novel method that integrates machine learning techniques with fundamental principles of mechanics to predict crack formation. The proposed research in this project promises to enhance production of high-quality semiconductor materials. 
