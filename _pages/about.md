@@ -11,7 +11,7 @@ Welcome to the website of Dr. Shengfeng Yang's research group at Purdue Universi
 
 Innovative Materials and Structures Design
 ======
-Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains, including battery technology, and the semiconductor sector.
+Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains.
 
 Computational Modeling and Simulation
 ======
@@ -20,7 +20,3 @@ We employ computational modeling and simulation techniques to predict the behavi
 Machine Learning Algorithms
 ======
 Our focus is on developing advanced algorithms in machine learning to drive innovation and solve complex problems.
-
-Robotics 
-======
-We are committed to advancing state-of-the-art algorithms that enhance the capabilities of robots in manipulation, perception, planning, search, and reasoning.
