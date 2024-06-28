@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-![PI](/images/yangsf.png=250x250)
+![PI](./images/yangsf.png=250x250)
 
 Education
 ======
