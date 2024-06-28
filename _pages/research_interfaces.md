@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interfaces in Engineering Materials"
+title: "Study Interfaces in Materials"
 permalink: /research_interfaces/
 author_profile: true
 redirect_from:
