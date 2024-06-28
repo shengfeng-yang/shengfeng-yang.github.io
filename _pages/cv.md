@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+/images/yangsf.png
+
 Education
 ======
 * Ph.D in Mechanical Engineering, University of Florida, 2014
