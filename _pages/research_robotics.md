@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interfaces in Engineering Materials"
+title: "Enhance Robotic Manipulation"
 permalink: /research_robotics/
 author_profile: true
 redirect_from:
