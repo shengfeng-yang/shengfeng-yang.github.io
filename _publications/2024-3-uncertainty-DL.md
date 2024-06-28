@@ -5,7 +5,7 @@ permalink: /publication/2024-3-uncertainty-DL
 excerpt: 'This paper is about developing an innovative approach to integrate uncertainty quantification into deep learning models.'
 date: 2024-03-03
 venue: 'APL Machine Learning'
-paperurl: 'http://shengfeng-yang.github.io/files/Yang-APL-Machine-Learning-2024-Integrate-ML-to-DL.pdf'
+paperurl: 'https://doi.org/10.1063/5.0177062'
 citation: 'Yuheng Wang, Guang Lin, Shengfeng Yang. (2024). &quot;Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties. &quot; <i>APL machine learning</i>. 2(1).'
 ---
 
