@@ -12,7 +12,7 @@ redirect_from:
 
 ![PI](./images/yangsf.png=250x250)
 
-<img src="./images/yangsf.pn" alt="PI" width="200"/>
+<img src="./images/yangsf.png" alt="PI" width="200"/>
 
 Education
 ======
