@@ -12,5 +12,4 @@ redirect_from:
 
 Our research harnesses advanced computational techniques to design state-of-the-art materials and structures, meeting the needs of diverse engineering fields for sustainable energy, including nuclear energy and Li-ion batteries.
 
-Related Publications:  
-======
+
