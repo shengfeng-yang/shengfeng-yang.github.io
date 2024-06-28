@@ -28,13 +28,13 @@ author:
   location         : "Indianapolis, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
-  email            : "shengfengyang@purdue.edu" 
+  email            : # "shengfengyang@purdue.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=4UGe5EoAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=4UGe5EoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8855-5558"
+  orcid            : #"https://orcid.org/0000-0002-8855-5558"
   pubmed           : # URL
   researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "shengfeng-yang"
+  github           : #"shengfeng-yang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
