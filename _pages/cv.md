@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-![PI](/images/yangsf.png=250x250)
-
 <img src="/images/yangsf.png" alt="PI" width="200"/>
 
 Education
