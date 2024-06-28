@@ -22,9 +22,9 @@ repository               : "shengfeng-yang.github.io"
 author:
   # Biographic information
   avatar           : "ACAI-logo-2024-b.jpg"
-  name             : "ACAI Lab"
+  name             : "Advanced Computation and Artificial Intelligence (ACAI) Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Advanced Computation and Artificial Intelligence (ACAI)"
+  bio              : # "Advanced Computation and Artificial Intelligence (ACAI)"
   location         : "Indianapolis, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
