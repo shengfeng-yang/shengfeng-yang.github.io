@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Shengfeng Yang"
+title                    : "ACAI Lab"
 title_separator          : "-"
 name                     : &name "Dr. Shengfeng Yang"
 description              : &description "Assistant Professor of Mechanical Engineering"
@@ -21,10 +21,10 @@ repository               : "shengfeng-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yangsf.png"
-  name             : "Dr. Shengfeng Yang"
+  avatar           : "ACAI-logo-2024-6.jpg"
+  name             : "ACAI Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Mechanical Engineering"
+  bio              : "Advanced Computation and Artificial Intelligence (ACAI) Lab"
   location         : "Indianapolis, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
