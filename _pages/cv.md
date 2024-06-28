@@ -19,7 +19,7 @@ Education
 * M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
 * B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
-Work experience
+Experience
 ======
 * 2024/07-present: Assitant Professor of Mechanical Engineering
   * Purdue University, Indianapolis, IN
