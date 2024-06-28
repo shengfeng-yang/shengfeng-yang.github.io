@@ -7,16 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website of Dr. Shengfeng Yang's research group at Purdue University. Our group is dedicated to advancing research in the following areas:
+Welcome to the website of the Advanced Computation and Artificial Intelligence (AC&AI) Lab, led by Dr. Shengfeng Yang at Purdue University. Our lab is dedicated to advancing research through advanced computation and machine learning techniques in the following areas:
 
-Innovative Materials and Structures Design
+Failure and Reliability Analysis for Microelectronics
 ======
-Our work includes designing groundbreaking materials and structures to address the needs of various engineering domains.
+We employ computational simulations and machine learning techniques to model the failure mechanisms of semiconductor materials and enhance the reliability predictions of microelectronics.
 
-Computational Modeling and Simulation
+Innovative Materials and Structures Design for Sustainable Energy
 ======
-We employ computational modeling and simulation techniques to predict the behavior and properties of materials.
+Our research harnesses advanced computational techniques to design state-of-the-art materials and structures, meeting the needs of diverse engineering fields for sustainable energy, including nuclear energy and Li-ion batteries.
 
-Machine Learning Algorithms
+Interfaces in Engineering Materials
 ======
-Our focus is on developing advanced algorithms in machine learning to drive innovation and solve complex problems.
+We investigate the impact of various interfaces on the properties of engineering materials to uncover the underlying mechanisms, thereby enabling the design of advanced materials through interfacial engineering.
+
+Advanced Machine Learning Algorithms for Engineering Applications
+======
+We specialize in developing advanced machine learning algorithms aimed at driving innovation and addressing complex challenges in engineering applications.
+
+Robotic Manipulation
+======
+We focus on developing advanced and efficient algorithms specifically designed for robotic manipulation across diverse engineering applications.
