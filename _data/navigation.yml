@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /researchprojects/
         
   - title: "Publication"
-    url: /publication/
+    url: /publications/
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
   - title: "PI"
-    url: /PI/
+    url: /CV/
 
   - title: "News"
     url: /year-archive/
