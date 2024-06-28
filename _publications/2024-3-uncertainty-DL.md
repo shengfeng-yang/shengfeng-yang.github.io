@@ -1,8 +1,8 @@
 ---
 title: "Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties"
 collection: publications
-permalink: /publication/2024-03-03-paper-uncertainty-DL
-excerpt: 'This paper is about developing methods to integrate uncertainty quantification into deep learning models.'
+permalink: /publication/2024-3-uncertainty-DL
+excerpt: 'This paper is about developing an innovative approach to integrate uncertainty quantification into deep learning models.'
 date: 2024-03-03
 venue: 'APL Machine Learning'
 paperurl: 'http://shengfeng-yang.github.io/files/Yang-APL-Machine-Learning-2024-Integrate-ML-to-DL.pdf'
