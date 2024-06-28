@@ -3,7 +3,7 @@ title: "Rapid prediction of grain boundary network evolution in nanomaterials ut
 collection: publications
 permalink: /publication/2024-8-polycrystal-cGAN.
 excerpt: 'We developed a deep learning framework based on a conditional generative adversarial network (cGAN) to predict the evolution of grain boundary (GB) networks in nanocrystalline materials.'
-date: 2024-08
+date: 2024-06-28
 venue: 'Extreme Mechanics Letters'
 paperurl: 'https://doi.org/10.1016/j.eml.2024.102172'
 citation: 'Wang, Y., Kazemi, A., Jing, T., Ding, Z., Li, L., & Yang, S. (2024). &quot;apid prediction of grain boundary network evolution in nanomaterials utilizing a generative machine learning approach. &quot; <i>Extreme Mechanics Letters</i>. 70, 102172.'
