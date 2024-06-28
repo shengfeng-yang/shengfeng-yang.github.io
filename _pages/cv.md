@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-![Drag Racing](/images/yangsf.png)
+![](/images/yangsf.png =250x)
 
 Education
 ======
