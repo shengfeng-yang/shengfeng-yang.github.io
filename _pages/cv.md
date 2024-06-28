@@ -12,6 +12,8 @@ redirect_from:
 
 ![PI](./images/yangsf.png=250x250)
 
+<img src="./images/yangsf.pn" alt="PI" width="200"/>
+
 Education
 ======
 * Ph.D in Mechanical Engineering, University of Florida, 2014
