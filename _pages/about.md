@@ -9,18 +9,18 @@ redirect_from:
 
 Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led by Dr. Shengfeng Yang at Purdue University. Our lab is dedicated to advancing research through advanced computation and machine learning techniques in the following areas:
 
-<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Reliability for Microelectronics</a>
+<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Microelectronics</a>
 ======
 We employ computational simulations and machine learning techniques to model the failure mechanisms of semiconductor materials and enhance the reliability predictions of microelectronics.
 
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Materials for Sustainable Energy</a>
+<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Design Materials for Sustainable Energy</a>
 ======
 Our research harnesses advanced computational techniques to design state-of-the-art materials and structures, meeting the needs of diverse engineering fields for sustainable energy, including nuclear energy and Li-ion batteries.
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Interfaces in Engineering Materials</a>
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Study Interfaces in Materials</a>
 ======
 We investigate the impact of various interfaces on the properties of engineering materials to uncover the underlying mechanisms, thereby enabling the design of advanced materials through interfacial engineering.
 
-<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Robotic Manipulation</a>
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Enhance Robotic Manipulation</a>
 ======
-We focus on developing advanced and mechanics-informed algorithms specifically designed for robotic manipulation across diverse engineering applications.
+We focus on developing advanced and mechanics-informed algorithms specifically designed for enhancing robotic manipulation across diverse engineering applications.
