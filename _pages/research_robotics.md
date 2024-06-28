@@ -13,8 +13,6 @@ redirect_from:
 We focus on developing advanced and mechanics-informed algorithms specifically designed for robotic manipulation across diverse engineering applications.
 
 
-Related Publications:  
-======
 
 
 
