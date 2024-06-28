@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "PI: Dr. Shengfeng Yang"
 permalink: /cv/
 author_profile: true
 redirect_from:
