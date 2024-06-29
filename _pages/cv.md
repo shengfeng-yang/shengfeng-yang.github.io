@@ -20,7 +20,7 @@ PI: Dr. Shengfeng Yang
 
 * Email: shengfengyang@purdue.edu
 * Phone: 765-495-7754
-* <a href="[/research_microelectronics](https://engineering.purdue.edu/ME/People/ptProfile?id=294615)" style="font-size: 18px; font-weight: bold;">Profile at Purude</a> 
+* <a href="[/research_microelectronics](https://engineering.purdue.edu/ME/People/ptProfile?id=294615)" style="font-size: 18px; font-weight: bold;">Profile at Purdue</a> 
     
 Education
 ======
