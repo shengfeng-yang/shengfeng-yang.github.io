@@ -10,6 +10,20 @@ redirect_from:
 {% include base_path %}
 
 
+
+# Two Column Layout Example
+
+| Text Column                      | Image Column                    |
+|----------------------------------|---------------------------------|
+| This is a paragraph of text.      | ![Image Alt Text](image-url)    |
+| It can have multiple lines.       |                                 |
+| This is line 3 of the text.       |                                 |
+
+
+
+
+
+
 <img src="/images/yangsf.png" alt="PI" width="200"/>
 
 PI: Dr. Shengfeng Yang
