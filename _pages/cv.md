@@ -19,7 +19,20 @@ PI: Dr. Shengfeng Yang
 
 <span style="font-size: 20px; font-weight: bold;">Purdue University, Indianapolis, IN</span>
 
-  
+Contact
+======
+SL 260E
+
+723 W. Michigan St.
+
+Indianapolis, IN 46202
+
+Email: shengfengyang@purdue.edu
+
+Phone: 765-495-7754
+
+
+    
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Florida, 2014
