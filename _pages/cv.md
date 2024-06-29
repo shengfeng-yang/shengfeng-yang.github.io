@@ -14,9 +14,9 @@ redirect_from:
 
 PI: Dr. Shengfeng Yang
 ======
-<span style="font-size: 18px; font-weight: bold;">Assistant Professor of Mechanical Engineering</span>
+<span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Assistant Professor of Mechanical Engineering</span>
 
-<span style="font-size: 18px; font-weight: bold; line-height: 0.6;">Purdue University, Indianapolis, IN</span>
+<span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Purdue University, Indianapolis, IN</span>
 
 * Email: shengfengyang@purdue.edu
 * Phone: 765-495-7754
