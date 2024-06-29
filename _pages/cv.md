@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PI: Dr. Shengfeng Yang"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,6 +12,12 @@ redirect_from:
 
 <img src="/images/yangsf.png" alt="PI" width="200"/>
 
+PI: Dr. Shengfeng Yang
+======
+* Assitant Professor of Mechanical Engineering
+* Purdue University, Indianapolis, IN
+
+  
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Florida, 2014
@@ -19,6 +25,7 @@ Education
 * M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
 * B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
+<!---    
 Experience
 ======
 * 2024/07-present: Assitant Professor of Mechanical Engineering
@@ -31,7 +38,7 @@ Experience
   * University of California, San Diego, CA
 
 
-<!---    
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
