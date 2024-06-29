@@ -10,34 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-
-# Two Column Layout Example
-
-<style>
-    table {
-        border-collapse: collapse;
-    }
-    table, th, td {
-        border: none;
-    }
-</style>
-
-| Text Column                                      | Image Column                           |
-|--------------------------------------------------|----------------------------------------|
-| Assitant Professor of Mechanical Engineering                     | <img src="/images/yangsf.png" alt="PI" width="200"/> |
-| Purdue University, Indianapolis, IN
-| Email: 
-| Address: 
-
-
-
-
 <img src="/images/yangsf.png" alt="PI" width="200"/>
 
 PI: Dr. Shengfeng Yang
 ======
 
-<span style="font-size: 20px; font-weight: bold;">Assitant Professor of Mechanical Engineering, Purdue University, Indianapolis, IN</span>
+<span style="font-size: 20px; font-weight: bold;">Assitant Professor of Mechanical Engineering</span>
+
+<span style="font-size: 20px; font-weight: bold;">Purdue University, Indianapolis, IN</span>
 
   
 Education
