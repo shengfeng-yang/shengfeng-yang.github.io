@@ -24,8 +24,10 @@ redirect_from:
 
 | Text Column                                      | Image Column                           |
 |--------------------------------------------------|----------------------------------------|
-| This is a paragraph of text.                      | <img src="/images/xxxx.png" alt="PI" width="200"/> |
-
+| Assitant Professor of Mechanical Engineering                     | <img src="/images/yangsf.png" alt="PI" width="200"/> |
+| Purdue University, Indianapolis, IN
+| Email: 
+| Address: 
 
 
 
