@@ -13,12 +13,18 @@ redirect_from:
 
 # Two Column Layout Example
 
-| Text Column                      | Image Column                    |
-|----------------------------------|---------------------------------|
-| This is a paragraph of text.      | ![Image Alt Text](image-url)    |
-| It can have multiple lines.       |                                 |
-| This is line 3 of the text.       |                                 |
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    table, th, td {
+        border: none;
+    }
+</style>
 
+| Text Column                                      | Image Column                           |
+|--------------------------------------------------|----------------------------------------|
+| This is a paragraph of text.                      | <img src="/images/xxxx.png" alt="PI" width="200"/> |
 
 
 
