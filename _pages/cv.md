@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, University of Florida, 2014
+* Ph.D. in Mechanical Engineering, University of Florida, 2014
 * M.S. in Computer Science, University of Texas, Austin, 2024
 * M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
 * B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
