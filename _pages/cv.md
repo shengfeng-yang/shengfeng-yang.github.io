@@ -14,7 +14,7 @@ redirect_from:
 
 PI: Dr. Shengfeng Yang
 ======
-* Assitant Professor of Mechanical Engineering, Purdue University, Indianapolis, IN
+
 <span style="font-size: 18px; font-weight: bold;">Assitant Professor of Mechanical Engineering, Purdue University, Indianapolis, IN</span>
 
   
