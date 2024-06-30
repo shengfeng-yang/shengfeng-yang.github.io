@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led by Dr. Shengfeng Yang at Purdue University. Our lab is dedicated to advancing research through advanced computation and machine learning techniques in the following areas:
 
-<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Semiconductor and Microelectronics</a>
+<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Semiconductors and Microelectronics</a>
 ======
 We employ computational simulations and machine learning techniques to model the failure mechanisms of semiconductor materials and enhance the reliability predictions of microelectronics.
 
