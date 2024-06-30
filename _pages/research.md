@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Semiconductor and Microelectronics</a>
+<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Semiconductors and Microelectronics</a>
 ======
 We employ computational simulations and machine learning techniques to model the failure mechanisms of semiconductor materials and enhance the reliability predictions of microelectronics.
 
