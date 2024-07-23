@@ -15,11 +15,11 @@ We utilize cutting-edge computational simulations and machine learning technique
 ======
 Our group is dedicated to the development of sophisticated machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
-======
-We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
-
 <a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
 ======
 Our research employs advanced computational techniques to create cutting-edge materials and structures that address the needs of sustainable energy solutions, including advancements in nuclear energy and Li-ion battery technologies.
+
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
+======
+We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
