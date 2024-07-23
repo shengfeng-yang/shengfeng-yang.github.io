@@ -13,7 +13,7 @@ redirect_from:
 
 We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductors, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
-NSF-supported Project
+NSF-Supported Project
 ======
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2347035" style="font-size: 20px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
 
