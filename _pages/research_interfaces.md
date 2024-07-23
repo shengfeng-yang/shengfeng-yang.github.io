@@ -12,6 +12,8 @@ redirect_from:
 
 We investigate the impact of various interfaces on the properties of engineering materials to uncover the underlying mechanisms, thereby enabling the design of advanced materials through interfacial engineering.
 
+![image](https://github.com/user-attachments/assets/c8815956-75bc-46ef-ab22-c3e83dbfb20a)
+
 Related Publications:
 ======
 <a href="/publication/2018-02-PRL-interface-phase" style="font-size: 18px; font-weight: bold;">First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties</a>
