@@ -7,19 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Improve Reliability for Semiconductors and Microelectronics</a>
+<a href="/research_microelectronics" style="font-size: 25px; font-weight: bold;">Enhancing Reliability for Semiconductors and Microelectronics</a>
 ======
-We employ computational simulations and machine learning techniques to model the failure mechanisms of semiconductor materials and enhance the reliability predictions of microelectronics.
+We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductor materials, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Study Interfaces in Materials</a>
+<a href="/research_AI" style="font-size: 25px; font-weight: bold;">Advancing Machine Learning Algorithms</a>
 ======
-We investigate the impact of various interfaces on the properties of engineering materials to uncover the underlying mechanisms, thereby enabling the design of advanced materials through interfacial engineering.
+Our group is dedicated to the development of sophisticated machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
 
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Design Materials for Sustainable Energy</a>
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
 ======
-Our research harnesses advanced computational techniques to design state-of-the-art materials and structures, meeting the needs of diverse engineering fields for sustainable energy, including nuclear energy and Li-ion batteries.
+We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
-<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Enhance Robotic Manipulation</a>
+<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
 ======
-We focus on developing advanced and mechanics-informed algorithms specifically designed for enhancing robotic manipulation across diverse engineering applications.
+Our research employs advanced computational techniques to create cutting-edge materials and structures that address the needs of sustainable energy solutions, including advancements in nuclear energy and Li-ion battery technologies.
 
