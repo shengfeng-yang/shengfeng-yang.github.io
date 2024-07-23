@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Study Interfaces in Materials"
+title: "Innovating Material Interfaces"
 permalink: /research_interfaces/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-We investigate the impact of various interfaces on the properties of engineering materials to uncover the underlying mechanisms, thereby enabling the design of advanced materials through interfacial engineering.
+We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
 ![image](https://github.com/user-attachments/assets/c8815956-75bc-46ef-ab22-c3e83dbfb20a)
 
