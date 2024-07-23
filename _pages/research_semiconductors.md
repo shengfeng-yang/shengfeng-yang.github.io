@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Improve Reliability for Microelectronics"
-permalink: /research_microelectronics/
+title: "Enhancing Reliability for semiconductors"
+permalink: /research_semiconductors/
 author_profile: true
 redirect_from:
-  - /microelectronics
+  - /semiconductors
 ---
 
 {% include base_path %}
