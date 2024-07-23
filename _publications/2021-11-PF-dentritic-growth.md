@@ -1,7 +1,7 @@
 ---
 title: "Phase-field-lattice Boltzmann method for dendritic growth with melt flow and thermosolutal convection–diffusion"
 collection: publications
-permalink: /publication/2021-11-01-Phase-field-dentritic-growth
+permalink: /publication/2021-11-PF-dentritic-growth
 date: 2021-11-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://doi.org/10.1016/j.cma.2021.114026'
