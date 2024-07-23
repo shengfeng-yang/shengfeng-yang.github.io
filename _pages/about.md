@@ -15,8 +15,8 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 <a href="/research_AI" style="font-size: 25px; font-weight: bold;">Advancing Machine Learning Algorithms</a>
 ======
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
+<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
 ======
 
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
 ======
