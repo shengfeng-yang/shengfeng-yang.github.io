@@ -16,7 +16,7 @@ PI: Dr. Shengfeng Yang
 ======
 <span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Assistant Professor of Mechanical Engineering</span>
 
-<span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Purdue University, Indianapolis, IN</span>
+<span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Purdue University</span>
 
 * Email: shengfengyang@purdue.edu
 * Phone: 765-495-7754
@@ -25,7 +25,7 @@ PI: Dr. Shengfeng Yang
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Florida, 2014
-* M.S. in Computer Science, University of Texas, Austin, 2024
+* M.S. in Computer Science, The University of Texas at Austin, 2024
 * M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
 * B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
@@ -33,13 +33,13 @@ Education
 Experience
 ======
 * 2024/07-present: Assitant Professor of Mechanical Engineering
-  * Purdue University, Indianapolis, IN
+  * Purdue University
 
 * 2017/08-2024/06: Assitant Professor of Mechanical and Energy Engineering
   * Indiana University-Purdue University Indianapolis (IUPUI)
 
 * 2015/03-2017/07: Postdoctoral Researcher
-  * University of California, San Diego, CA
+  * University of California San Diego
 
 
 
