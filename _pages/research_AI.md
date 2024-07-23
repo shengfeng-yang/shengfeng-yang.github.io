@@ -16,6 +16,6 @@ Our group is dedicated to the development of sophisticated machine learning algo
 Related Publications:
 ======
 
-<a href="/publication/2024-03-uncertainty-DL" style="font-size: 15px; font-weight: bold;">Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties</a>
+<a href="/publication/2024-03-uncertainty-DL" style="font-size: 18px; font-weight: bold;">Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties</a>
 
-<a href="/publication/2024-06-polycrystal-cGAN" style="font-size: 15px; font-weight: bold;">Rapid prediction of grain boundary network evolution in nanomaterials utilizing a generative machine learning approach</a>
+<a href="/publication/2024-06-polycrystal-cGAN" style="font-size: 18px; font-weight: bold;">Rapid prediction of grain boundary network evolution in nanomaterials utilizing a generative machine learning approach</a>
