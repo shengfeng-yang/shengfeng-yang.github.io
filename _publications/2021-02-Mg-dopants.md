@@ -1,7 +1,7 @@
 ---
 title: "Effects of magnesium dopants on grain boundary migration in aluminum-magnesium alloys"
 collection: publications
-permalink: /publication/2021-02-01-Mg-dopants
+permalink: /publication/2021-02-Mg-dopants
 date: 2021-02-01
 venue: 'Computational Materials Science'
 paperurl: 'https://doi.org/10.1016/j.commatsci.2020.110130'
