@@ -12,6 +12,6 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "News"
-    url: /year-archive/
+#  - title: "News"
+#    url: /year-archive/
     
