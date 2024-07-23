@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /people/
 author_profile: true
 redirect_from:
-  - /resume
+  - /people
 ---
 
 {% include base_path %}
@@ -21,7 +21,17 @@ PI: Dr. Shengfeng Yang
 * Email: shengfengyang@purdue.edu
 * Phone: 765-495-7754
 * <a href="https://engineering.purdue.edu/ME/People/ptProfile?id=294615" style="font-size: 18px; font-weight: bold;">Profile at Purdue</a> 
-    
+
+
+
+Graduate Students
+======
+* Jiali Lu, PhD student in Mechanical Engineering at Purdue University
+* Shriniket Umesh Jakati, MS student in Mechanical Engineering at Purdue University
+* Yuheng Wang, PhD in Mechanical Engineering at Purdue University (2023)
+* Amir Kazemi, PhD in Mechanical Engineering at Purdue University (2023)
+
+<!---   
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Florida, 2014
@@ -54,7 +64,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
--->
+
 
 Teaching
 ======
@@ -62,3 +72,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+-->
