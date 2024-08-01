@@ -1,5 +1,5 @@
 ---
-title: "First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties"
+title: "First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary"
 collection: publications
 permalink: /publication/2018-02-PRL-interface-phase
 date: 2018-02-01
