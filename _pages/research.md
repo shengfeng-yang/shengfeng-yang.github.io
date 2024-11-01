@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="/research_AI" style="font-size: 25px; font-weight: bold;">Advancing Machine Learning Algorithms</a>
+<a href="/research_AI" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
-Our group is dedicated to the development of sophisticated machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
+Our group is dedicated to the development of advanced scientific machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
 
 <a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Enhancing Reliability for Semiconductors</a>
 ======
