@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Advancing Machine Learning Algorithms"
+title: "Scientific Machine Learning"
 permalink: /research_AI/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Our group is dedicated to the development of sophisticated machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
+Our group is dedicated to the development of advanced scientific machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
 
 ![image](https://github.com/user-attachments/assets/38b5cfef-ddff-421c-b17e-264340c2a498)
 <a href="/publication/2024-06-polycrystal-cGAN" style="font-size: 18px; font-weight: bold;">Rapid prediction of grain boundary network evolution in nanomaterials utilizing a generative machine learning approach</a>
