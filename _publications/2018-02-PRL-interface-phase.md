@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-02-PRL-interface-phase
 date: 2018-02-01
 venue: 'Physical Review Letters'
-paperurl: 'https://doi.org/10.1063/5.0177062'
+paperurl: 'https://doi.org/10.1103/PhysRevLett.120.085702'
 citation: 'S. Yang, N. Zhou, H. Zheng, S. Ong, J. Luo &quot;First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary. &quot; <i>Physical Review Letters</i>. 2018: 120, 085702.'
 ---
 
