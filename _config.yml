@@ -21,7 +21,7 @@ repository               : "shengfeng-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Log-ACAI.jpg"
+  avatar           : "Log-ACAI.gif"
   name             : "The Advanced Computation and Artificial Intelligence (ACAI) Lab"
   pronouns         : # example: "she/her"  
   bio              : "       "
