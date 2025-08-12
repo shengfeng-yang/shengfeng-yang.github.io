@@ -1,10 +1,10 @@
 ---
-title: "Concurrent atomistic and continuum simulation of strontium titanate"
+title: "Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding"
 collection: publications
 permalink: /publication/2025-5-Crack-Cu-Cu-Bond
 date: 2025-05-01
 venue: 'IEEE Electronic Components and Technology Conference (ECTC)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/11037990'
+paperurl: 'https://doi.org/10.1109/ECTC51687.2025.00207'
 citation: 'S. Yang, J. Lu. &quot;Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding. &quot; <i>IEEE Electronic Components and Technology Conference (ECTC)</i>. 2025: 1206-1210.'
 ---
 
