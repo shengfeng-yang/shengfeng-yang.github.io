@@ -13,16 +13,16 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 <a href="/research_AI" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
 
-<a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Enhancing Reliability for Semiconductors</a>
+<a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Reliability for Semiconductors</a>
 ======
 
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
 ======
 
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
+<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Advanced Energy Materials</a>
 ======
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Interfaces in Materials</a>
 ======
 
 ![purdue-indysign](https://github.com/user-attachments/assets/c0fed355-6531-4077-859e-bc03f2933459)
