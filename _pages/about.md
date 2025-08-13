@@ -16,6 +16,9 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 <a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Enhancing Reliability for Semiconductors</a>
 ======
 
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
+======
+
 <a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
 ======
 
