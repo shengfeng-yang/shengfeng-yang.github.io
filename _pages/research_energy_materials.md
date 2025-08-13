@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Design Materials for Sustainable Energy"
+title: "Advanced Energy Materials"
 permalink: /research_energy_materials/
 author_profile: true
 redirect_from:
