@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Our research harnesses advanced computational techniques to design state-of-the-art materials and structures, meeting the needs of diverse engineering fields for sustainable energy, including nuclear energy and Li-ion batteries.
-_publications/2025-04-Lithium-storage.md
+Our research harnesses advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including nuclear energy and Li-ion batteries.
 
 <a href="/publication/2025-04-Lithium-storage" style="font-size: 18px; font-weight: bold;">Lithium storage mechanisms and electrochemical behavior of a molybdenum disulfide nanoparticle anode</a>
 
