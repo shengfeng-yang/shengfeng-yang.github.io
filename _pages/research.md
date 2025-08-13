@@ -11,7 +11,7 @@ author_profile: true
 ======
 Our group is dedicated to the development of advanced scientific machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
 
-<a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Enhancing Reliability for Semiconductors</a>
+<a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Reliability for Semiconductors</a>
 ======
 We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductors, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
@@ -19,11 +19,11 @@ We utilize cutting-edge computational simulations and machine learning technique
 ======
 This project develops advanced Vision-Language-Action (VLA) models for physical intelligence on the Mobile ALOHA platform. By integrating multimodal perception, language understanding, and adaptive control, we aim to enable autonomous and intelligent real-world task execution.
 
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
+<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Advanced Energy Materials</a>
 ======
 Our research employs advanced computational techniques to create cutting-edge materials and structures that address the needs of sustainable energy solutions, including advancements in nuclear energy and Li-ion battery technologies.
 
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
+<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Interfaces in Materials </a>
 ======
 We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
