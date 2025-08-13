@@ -13,7 +13,11 @@ redirect_from:
 
 We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductors, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
+Publication
+======
 <a href="/publication/2025-5-Crack-Cu-Cu-Bond" style="font-size: 18px; font-weight: bold;">Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding</a>
+
+<a href="/publication/2025-6-TSV-modeling" style="font-size: 18px; font-weight: bold;">Modeling of Microstructural Evolution within TSVs Using Atomistic Simulations</a>
 
 NSF-Supported Project
 ======
