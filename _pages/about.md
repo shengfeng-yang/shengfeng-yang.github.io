@@ -21,4 +21,5 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 
 <a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Innovating Material Interfaces</a>
 ======
+
 ![purdue-indysign](https://github.com/user-attachments/assets/c0fed355-6531-4077-859e-bc03f2933459)
