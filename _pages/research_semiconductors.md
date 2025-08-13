@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Enhancing Reliability for semiconductors"
+title: "Reliability for semiconductors"
 permalink: /research_semiconductors/
 author_profile: true
 redirect_from:
