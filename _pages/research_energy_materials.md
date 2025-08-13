@@ -12,6 +12,9 @@ redirect_from:
 
 Our research harnesses advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including nuclear energy and Li-ion batteries.
 
+Publication:
+------
+
 <a href="/publication/2025-04-Lithium-storage" style="font-size: 18px; font-weight: bold;">Lithium storage mechanisms and electrochemical behavior of a molybdenum disulfide nanoparticle anode</a>
 
 <a href="/publication/2021-09-Lithium-trapping" style="font-size: 18px; font-weight: bold;">Lithium trapping in germanium nanopores during delithiation process</a>
