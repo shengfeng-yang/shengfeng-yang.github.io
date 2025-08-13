@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Innovating Material Interfaces"
+title: "Interfaces in Materials"
 permalink: /research_interfaces/
 author_profile: true
 redirect_from:
