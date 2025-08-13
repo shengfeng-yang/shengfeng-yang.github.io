@@ -15,6 +15,9 @@ Our group is dedicated to the development of advanced scientific machine learnin
 ======
 We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductors, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
+======
+This project develops advanced Vision-Language-Action (VLA) models for physical intelligence on the Mobile ALOHA platform. By integrating multimodal perception, language understanding, and adaptive control, we aim to enable autonomous and intelligent real-world task execution.
 
 <a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Designing Materials for Sustainable Energy</a>
 ======
