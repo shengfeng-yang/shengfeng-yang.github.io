@@ -19,6 +19,8 @@ Publication:
 
 <a href="/publication/2021-09-Lithium-trapping" style="font-size: 18px; font-weight: bold;">Lithium trapping in germanium nanopores during delithiation process</a>
 
+<a href="/publication/2022-09-Porous" style="font-size: 18px; font-weight: bold;">Porous microstructures for ion storage in high capacity electrodes based on surface segregation-induced separation</a>
+
 <a href="/publication/2021-11-PF-dentritic-growth" style="font-size: 18px; font-weight: bold;">Phase-field-lattice Boltzmann method for dendritic growth with melt flow and thermosolutal convection–diffusion</a>
 
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten used in future fusion reactors</a>
