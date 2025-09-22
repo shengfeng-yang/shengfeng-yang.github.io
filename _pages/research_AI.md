@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-We develop advanced scientific machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
+We develop advanced scientific machine learning algorithms tailored for a wide range of applications.
 
 Publication:
 ------
@@ -20,3 +20,5 @@ Publication:
 
 ![image](https://github.com/user-attachments/assets/1ff011d8-5aa4-4dbc-8797-890ec38a717e)
 <a href="/publication/2024-03-uncertainty-DL" style="font-size: 18px; font-weight: bold;">Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties</a>
+
+<a href="/publication/2025-09-Imbalanced-data" style="font-size: 18px; font-weight: bold;">A machine learning framework for missing and imbalanced data in marketing analytics</a>
