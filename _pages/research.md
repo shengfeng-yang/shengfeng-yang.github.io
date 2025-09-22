@@ -9,7 +9,7 @@ author_profile: true
 
 <a href="/research_AI" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
-We develop advanced scientific machine learning algorithms tailored for predicting material behaviors and properties, catering to a wide range of engineering applications.
+We develop advanced scientific machine learning algorithms tailored for a wide range of applications.
 
 <a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Reliability for Semiconductors</a>
 ======
@@ -17,7 +17,7 @@ We utilize cutting-edge computational simulations and machine learning technique
 
 <a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Advanced Energy Materials</a>
 ======
-Our research employs advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including nuclear energy and Li-ion batteries.
+Our research employs advanced computational and ML techniques to design state-of-the-art materials and structures for diverse energy applications, including nuclear energy and Li-ion batteries.
 
 <a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Interfaces in Materials </a>
 ======
