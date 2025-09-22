@@ -15,10 +15,6 @@ We develop advanced scientific machine learning algorithms tailored for predicti
 ======
 We utilize cutting-edge computational simulations and machine learning techniques to model failure mechanisms in semiconductors, aiming to significantly improve the reliability predictions and performance of microelectronic devices.
 
-<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
-======
-This project develops advanced Vision-Language-Action (VLA) models for physical intelligence on the Mobile ALOHA platform. By integrating multimodal perception, language understanding, and adaptive control, we aim to enable autonomous and intelligent real-world task execution.
-
 <a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Advanced Energy Materials</a>
 ======
 Our research employs advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including nuclear energy and Li-ion batteries.
@@ -27,3 +23,6 @@ Our research employs advanced computational techniques to design state-of-the-ar
 ======
 We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
+======
+This project develops advanced Vision-Language-Action (VLA) models for physical intelligence on the Mobile ALOHA platform. By integrating multimodal perception, language understanding, and adaptive control, we aim to enable autonomous and intelligent real-world task execution.
