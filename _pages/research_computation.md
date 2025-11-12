@@ -41,11 +41,21 @@ Interfaces in Materials:
 We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
 <a href="/publication/2018-02-PRL-interface-phase" style="font-size: 18px; font-weight: bold;">First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties</a>
-![image](https://github.com/user-attachments/assets/75579f60-96d5-4a19-ba3f-2bdf230aacc9)
 
 <a href="/publication/2018-07-GB-embrittle" style="font-size: 18px; font-weight: bold;">Role of disordered bipolar complexions on the sulfur embrittlement of nickel general grain boundaries</a>
-![image](https://github.com/user-attachments/assets/cc2c362c-274a-4e7e-8e2f-293e18119ce9)
-
 
 <a href="/publication/2021-02-Mg-dopants" style="font-size: 18px; font-weight: bold;">Effects of magnesium dopants on grain boundary migration in aluminum-magnesium alloys</a>
+
+Concurrent Atomistic and Continuum Methodology Development:
+------
+<a href="/publication/2013-01-CAC-single-crystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of strontium titanate</a>
+
+<a href="/publication/2015-03-CAC-bicrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of bi-crystal strontium titanate with tilt grain boundary</a>
+
+<a href="/publication/2015-08-CAC-polycrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic–continuum simulation of polycrystalline strontium titanate’ mechanical properties</a>
+
+<a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
+
+![image](https://github.com/user-attachments/assets/cc2c362c-274a-4e7e-8e2f-293e18119ce9)
 ![image](https://github.com/user-attachments/assets/c8815956-75bc-46ef-ab22-c3e83dbfb20a)
+![image](https://github.com/user-attachments/assets/75579f60-96d5-4a19-ba3f-2bdf230aacc9)
