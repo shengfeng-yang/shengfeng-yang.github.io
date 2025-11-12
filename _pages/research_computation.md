@@ -56,6 +56,8 @@ Concurrent Atomistic and Continuum Methodology Development:
 
 <a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
 
+Image Gallery
+------
 ![image](https://github.com/user-attachments/assets/cc2c362c-274a-4e7e-8e2f-293e18119ce9)
 ![image](https://github.com/user-attachments/assets/c8815956-75bc-46ef-ab22-c3e83dbfb20a)
 ![image](https://github.com/user-attachments/assets/75579f60-96d5-4a19-ba3f-2bdf230aacc9)
