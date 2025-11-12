@@ -13,13 +13,7 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 <a href="/research_AI" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
 
-<a href="/research_semiconductors" style="font-size: 25px; font-weight: bold;">Reliability for Semiconductors</a>
-======
-
-<a href="/research_energy_materials" style="font-size: 25px; font-weight: bold;">Advanced Energy Materials</a>
-======
-
-<a href="/research_interfaces" style="font-size: 25px; font-weight: bold;">Interfaces in Materials</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Modeling and Simulation of Materials</a>
 ======
 
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence and Robotics</a>
