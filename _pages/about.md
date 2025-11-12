@@ -14,7 +14,7 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Modeling and Simulation of Materials</a>
 ======
 
-<a href="/research_AI" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
+<a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
 
 
