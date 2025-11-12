@@ -20,6 +20,9 @@ We develop advanced scientific machine learning algorithms for a wide range of a
 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 20px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
 
+
+Image Gallery
+------
 ![image](https://github.com/user-attachments/assets/1ff011d8-5aa4-4dbc-8797-890ec38a717e)
 
 ![image](https://github.com/user-attachments/assets/38b5cfef-ddff-421c-b17e-264340c2a498)
