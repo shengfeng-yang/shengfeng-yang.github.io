@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computational Modeling and Simulation of Materials"
+title: "Computational Simulation of Materials"
 permalink: /research_computation/
 author_profile: true
 redirect_from:
