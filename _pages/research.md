@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Modeling and Simulation of Materials</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Simulation of Materials</a>
 ======
 We utilize atomic-level computations to model and simulate materials for various engineering applications.
 
