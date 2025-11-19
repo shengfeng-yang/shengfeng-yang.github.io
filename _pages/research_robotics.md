@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Physical Intelligence and Robotics"
+title: "Physical Intelligence for Robotics"
 permalink: /research_robotics/
 author_profile: true
 redirect_from:
