@@ -18,6 +18,10 @@ PI: Dr. Shengfeng Yang
 
 <span style="font-size: 18px; font-weight: bold; line-height: 0.5;">Purdue University</span>
 
+
+* Ph.D. in Mechanical Engineering, University of Florida
+* M.S. in Computer Science, University of Texas at Austin
+
 * Email: shengfengyang@purdue.edu
 * Phone: 765-495-7754
 * <a href="https://engineering.purdue.edu/ME/People/ptProfile?id=294615" style="font-size: 18px; font-weight: bold;">Profile at Purdue</a> 
