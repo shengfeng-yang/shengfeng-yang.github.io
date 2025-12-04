@@ -19,4 +19,4 @@ We develop advanced scientific machine learning algorithms for a wide range of a
 
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
-This project develops advanced algorithms and models for physical intelligence on the Mobile ALOHA platform. By integrating multimodal perception, language understanding, and adaptive control, we aim to enable autonomous and intelligent real-world task execution.
+This research project focuses on the development of advanced algorithms and models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
