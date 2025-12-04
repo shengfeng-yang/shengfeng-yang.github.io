@@ -7,4 +7,4 @@ permalink: /teaching/2024-spring-teaching-1
 date: 2025-01-10
 ---
 
-ME 37200 Design of Mechanisms
+Topics: Kinematic analysis and design of various types of mobile mechanisms such as linkage, cam and follower, gear, gear trains.
