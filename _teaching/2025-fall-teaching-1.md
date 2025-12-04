@@ -3,8 +3,9 @@ title: "Machine Design"
 collection: teaching
 type: "Undergraduate course"
 venue: "School of Mechanical Engineering"
-permalink: /teaching/2025-fall-teaching-1
-date: 2025-09-01
+permalink: /teaching/2025-fall-teaching
+date: 2025-08-20
 ---
 
-ME 35400 Machine Design
+Topics: Analysis and design of machine elements, including shafts, screws, fasteners, mechanical springs, bearings, gears, and gear trains.
+
