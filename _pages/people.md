@@ -23,7 +23,6 @@ PI: Dr. Shengfeng Yang
 * <a href="https://engineering.purdue.edu/ME/People/ptProfile?id=294615" style="font-size: 18px; font-weight: bold;">Profile at Purdue</a> 
 
 
-
 Current Students
 ======
 Jiali Lu, Shriniket Jakati, Bryant Liu, Krish Sharma, Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Sardar Konurbayev, Fabricio Giusti, Gavin Forrest, Junho Yoon
