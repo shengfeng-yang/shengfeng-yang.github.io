@@ -24,12 +24,14 @@ PI: Dr. Shengfeng Yang
 
 
 
-Graduate Students
+Current Students
 ======
-* Jiali Lu, PhD student in Mechanical Engineering at Purdue University
-* Shriniket Umesh Jakati, MS student in Mechanical Engineering at Purdue University
-* Yuheng Wang, PhD in Mechanical Engineering at Purdue University (2023)
-* Amir Kazemi, PhD in Mechanical Engineering at Purdue University (2023)
+Jiali Lu, Shriniket Umesh Jakati, Bryant Liu, Krish Sharma
+
+
+Alumni
+======
+Yuheng Wang, Amir Kazemi, Quanfu Han
 
 <!---   
 Education
