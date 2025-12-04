@@ -26,8 +26,7 @@ PI: Dr. Shengfeng Yang
 
 Current Students
 ======
-Jiali Lu, Shriniket Umesh Jakati, Bryant Liu, Krish Sharma
-
+Jiali Lu, Shriniket Jakati, Bryant Liu, Krish Sharma, Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Sardar Konurbayev, Fabricio Giusti, Gavin Forrest, Junho Yoon
 
 Alumni
 ======
