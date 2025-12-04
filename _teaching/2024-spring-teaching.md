@@ -7,7 +7,7 @@ permalink: /teaching/2024-spring-teaching
 date: 2024-01-10
 ---
 
-Topics: computational modeling and numerical simulation of material behaviors across multiple scales: continuum, atomic, and quantum.
+Topics: Computational modeling and numerical simulation of material behaviors across multiple scales: continuum, atomic, and quantum.
 
 
 
