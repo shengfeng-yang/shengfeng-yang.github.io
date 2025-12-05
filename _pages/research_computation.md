@@ -19,6 +19,8 @@ We utilize atomic-level computational simulations and machine learning technique
 
 <a href="/publication/2025-6-TSV-modeling" style="font-size: 18px; font-weight: bold;">Modeling of Microstructural Evolution within TSVs Using Atomistic Simulations</a>
 
+<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 20px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
+
 
 Interfaces in Materials:
 ------
