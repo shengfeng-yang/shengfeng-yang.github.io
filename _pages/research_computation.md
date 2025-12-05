@@ -13,7 +13,7 @@ redirect_from:
 
 Material Reliability for Advanced Packaging:
 ------
-We utilize atomic-level computational simulations and machine learning techniques to model failure mechanisms in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
+We utilize computational simulations and machine learning techniques to model failure mechanisms in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
 
 <a href="/publication/2025-5-Crack-Cu-Cu-Bond" style="font-size: 18px; font-weight: bold;">Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding</a>
 
