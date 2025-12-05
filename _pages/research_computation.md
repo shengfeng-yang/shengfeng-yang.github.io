@@ -11,8 +11,6 @@ redirect_from:
 
 
 
-
-
 Material Reliability for Advanced Packaging:
 ------
 We utilize atomic-level computational simulations and machine learning techniques to model failure mechanisms in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
@@ -20,6 +18,31 @@ We utilize atomic-level computational simulations and machine learning technique
 <a href="/publication/2025-5-Crack-Cu-Cu-Bond" style="font-size: 18px; font-weight: bold;">Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding</a>
 
 <a href="/publication/2025-6-TSV-modeling" style="font-size: 18px; font-weight: bold;">Modeling of Microstructural Evolution within TSVs Using Atomistic Simulations</a>
+
+
+Interfaces in Materials:
+------
+We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
+
+<a href="/publication/2018-02-PRL-interface-phase" style="font-size: 18px; font-weight: bold;">First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties</a>
+
+<a href="/publication/2018-07-GB-embrittle" style="font-size: 18px; font-weight: bold;">Role of disordered bipolar complexions on the sulfur embrittlement of nickel general grain boundaries</a>
+
+<a href="/publication/2021-02-Mg-dopants" style="font-size: 18px; font-weight: bold;">Effects of magnesium dopants on grain boundary migration in aluminum-magnesium alloys</a>
+
+
+Concurrent Atomistic and Continuum Methodology Development:
+------
+We develop advanced multiscale simulation methods that integrate atomic and continuum scales to predict mechanical and thermal behaviors in microstructurally complex materials with high efficiency and accuracy.
+
+<a href="/publication/2013-01-CAC-single-crystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of strontium titanate</a>
+
+<a href="/publication/2015-03-CAC-bicrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of bi-crystal strontium titanate with tilt grain boundary</a>
+
+<a href="/publication/2015-08-CAC-polycrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic–continuum simulation of polycrystalline strontium titanate’ mechanical properties</a>
+
+<a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
+
 
 Advanced Energy Materials:
 ------
@@ -34,27 +57,6 @@ The research uses advanced computational techniques to design state-of-the-art m
 <a href="/publication/2021-11-PF-dentritic-growth" style="font-size: 18px; font-weight: bold;">Phase-field-lattice Boltzmann method for dendritic growth with melt flow and thermosolutal convection–diffusion</a>
 
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten used in future fusion reactors</a>
-
-
-Interfaces in Materials:
-------
-We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
-
-<a href="/publication/2018-02-PRL-interface-phase" style="font-size: 18px; font-weight: bold;">First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties</a>
-
-<a href="/publication/2018-07-GB-embrittle" style="font-size: 18px; font-weight: bold;">Role of disordered bipolar complexions on the sulfur embrittlement of nickel general grain boundaries</a>
-
-<a href="/publication/2021-02-Mg-dopants" style="font-size: 18px; font-weight: bold;">Effects of magnesium dopants on grain boundary migration in aluminum-magnesium alloys</a>
-
-Concurrent Atomistic and Continuum Methodology Development:
-------
-<a href="/publication/2013-01-CAC-single-crystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of strontium titanate</a>
-
-<a href="/publication/2015-03-CAC-bicrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of bi-crystal strontium titanate with tilt grain boundary</a>
-
-<a href="/publication/2015-08-CAC-polycrystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic–continuum simulation of polycrystalline strontium titanate’ mechanical properties</a>
-
-<a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
 
 Image Gallery
 ------
