@@ -18,7 +18,7 @@ We develop advanced scientific machine learning algorithms for a wide range of a
 
 <a href="/publication/2025-09-Imbalanced-data" style="font-size: 18px; font-weight: bold;">A machine learning framework for missing and imbalanced data in marketing analytics</a>
 
-<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 20px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
+<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 18px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
 
 
 Image Gallery
