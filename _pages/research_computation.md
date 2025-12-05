@@ -30,6 +30,9 @@ We explore the impact of various interfaces on material properties to uncover fu
 
 <a href="/publication/2021-02-Mg-dopants" style="font-size: 18px; font-weight: bold;">Effects of magnesium dopants on grain boundary migration in aluminum-magnesium alloys</a>
 
+<a href="/publication/2021-11-PF-dentritic-growth" style="font-size: 18px; font-weight: bold;">Phase-field-lattice Boltzmann method for dendritic growth with melt flow and thermosolutal convection–diffusion</a>
+
+<a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten under tensile strains</a>
 
 Concurrent Atomistic and Continuum Methodology Development:
 ------
@@ -54,9 +57,7 @@ The research uses advanced computational techniques to design state-of-the-art m
 
 <a href="/publication/2022-09-Porous" style="font-size: 18px; font-weight: bold;">Porous microstructures for ion storage in high capacity electrodes based on surface segregation-induced separation</a>
 
-<a href="/publication/2021-11-PF-dentritic-growth" style="font-size: 18px; font-weight: bold;">Phase-field-lattice Boltzmann method for dendritic growth with melt flow and thermosolutal convection–diffusion</a>
 
-<a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten used in future fusion reactors</a>
 
 Image Gallery
 ------
