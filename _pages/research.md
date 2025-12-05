@@ -11,7 +11,7 @@ author_profile: true
 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Simulation of Materials</a>
 ======
-We utilize atomic-level computations to model and simulate materials for various engineering applications.
+We develop and apply advanced computational approaches to materials modeling for diverse engineering applications, including advanced chip packaging.
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
@@ -19,4 +19,4 @@ We develop advanced scientific machine learning algorithms for a wide range of a
 
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
-This research project focuses on the development of advanced algorithms and models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
+We focus on the development of advanced algorithms and models for physical intelligence for robotics. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
