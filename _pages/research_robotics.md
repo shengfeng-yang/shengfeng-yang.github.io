@@ -23,6 +23,5 @@ Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Mo
 
 Image Gallery
 ------
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3f2e540c-d03b-4717-ac84-53b0db990f17" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2aaeefe4-06f0-46e5-9262-02b4e0244017" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3f2e540c-d03b-4717-ac84-53b0db990f17" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/2aaeefe4-06f0-46e5-9262-02b4e0244017" />
 
