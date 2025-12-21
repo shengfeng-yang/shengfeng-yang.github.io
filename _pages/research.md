@@ -11,7 +11,7 @@ author_profile: true
 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Digital Twin</a>
 ======
-We aim to build defect-aware predictive digital twins for a wide range of applications through developing advanced modeling and simulation of defects in engineering materials.
+We aim to develop defect-aware predictive digital twins for diverse engineering applications by creating advanced models and simulations that represent defect initiation, evolution, and their impact on material performance.
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
