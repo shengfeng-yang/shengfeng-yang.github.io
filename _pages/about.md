@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led by Dr. Shengfeng Yang at Purdue University. Our research focuses on several AI-related areas:
+Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led by Dr. Shengfeng Yang at Purdue University. Our research focuses on following areas:
 
 
 
