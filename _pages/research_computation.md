@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-We aim to build defect-aware predictive digital twins for a wide range of applications through developing advanced modeling and simulation techniques to study defects in engineering materials.
-
+We aim to develop defect-aware predictive digital twins for diverse engineering applications by creating advanced models and simulations that represent defect initiation, evolution, and their impact on material performance.
 
 Reliability for Advanced Packaging with Defects:
 ------
