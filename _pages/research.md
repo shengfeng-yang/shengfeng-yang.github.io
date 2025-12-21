@@ -9,9 +9,9 @@ author_profile: true
 
 
 
-<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Computational Simulation of Materials</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Digital Twin</a>
 ======
-We develop and apply advanced computational approaches to materials modeling for diverse engineering applications, including advanced chip packaging.
+We aim to build defect-aware predictive digital twins for a wide range of applications through developing advanced modeling and simulation of defects in engineering materials.
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
