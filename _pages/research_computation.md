@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computational Simulation of Materials"
+title: "Defect-Aware Digital Twin"
 permalink: /research_computation/
 author_profile: true
 redirect_from:
@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+We aim to build defect-aware predictive digital twins for a wide range of applications through developing advanced modeling and simulation techniques to study defects in engineering materials.
 
 
-Material Reliability for Advanced Packaging:
+Reliability for Advanced Packaging with Defects:
 ------
 We utilize computational simulations and machine learning techniques to model failure mechanisms in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
 
@@ -22,7 +23,7 @@ We utilize computational simulations and machine learning techniques to model fa
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 18px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
 
 
-Interfaces in Materials:
+Simulating Defects at Interfaces in Materials:
 ------
 We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
 
@@ -36,9 +37,9 @@ We explore the impact of various interfaces on material properties to uncover fu
 
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten under tensile strains</a>
 
-Concurrent Atomistic and Continuum Methodology Development:
+Concurrent Atomistic and Continuum Methodology to Simulate Defect Dynamics:
 ------
-We develop advanced multiscale simulation methods that integrate atomic and continuum scales to predict mechanical and thermal behaviors in microstructurally complex materials with high efficiency and accuracy.
+We develop advanced multiscale simulation methods that integrate atomic and continuum scales to predict mechanical and thermal behaviors of defects in microstructurally complex materials with high efficiency and accuracy.
 
 <a href="/publication/2013-01-CAC-single-crystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of strontium titanate</a>
 
@@ -49,7 +50,7 @@ We develop advanced multiscale simulation methods that integrate atomic and cont
 <a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
 
 
-Advanced Energy Materials:
+Modeling Defects in Advanced Energy Materials:
 ------
 The research uses advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including Li-ion batteries.
 
