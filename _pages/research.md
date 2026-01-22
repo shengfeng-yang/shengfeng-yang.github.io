@@ -9,13 +9,13 @@ author_profile: true
 
 
 
-<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Digital Twin</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Semiconductor Digital Twins</a>
 ======
-We aim to develop defect-aware predictive digital twins for diverse engineering applications by creating advanced models and simulations that represent defect initiation, evolution, and their impact on material performance.
+We develop defect-aware predictive digital twins for semiconductor materials and advanced packaging, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
-We develop advanced scientific machine learning algorithms for a wide range of applications.
+We develop scientific machine learning algorithms that integrate data-driven approaches with physics-based modeling to accelerate discovery, enhance prediction accuracy, and enable efficient solutions across diverse scientific and engineering domains.
 
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
