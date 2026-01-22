@@ -29,7 +29,7 @@ PI: Dr. Shengfeng Yang
 
 Current Students
 ======
-Jiali Lu, Shriniket Jakati, Bryant Liu, Krish Sharma, Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Sardar Konurbayev, Fabricio Giusti, Gavin Forrest, Junho Yoon
+Jiali Lu, Shriniket Jakati, Bryant Liu, Krish Sharma, Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Fabricio Giusti, Gavin Forrest, Junho Yoon
 
 Alumni
 ======
@@ -40,8 +40,6 @@ Education
 ======
 * Ph.D. in Mechanical Engineering, University of Florida, 2014
 * M.S. in Computer Science, The University of Texas at Austin, 2024
-* M.S. in Solid Mechanics, Huazhong University of Science & Technology, 2010
-* B.S. in Engineering Mechanics, Huazhong University of Science & Technology, 2008
 
 <!---    
 Experience
@@ -52,7 +50,7 @@ Experience
 * 2017/08-2024/06: Assitant Professor of Mechanical and Energy Engineering
   * Indiana University-Purdue University Indianapolis (IUPUI)
 
-* 2015/03-2017/07: Postdoctoral Researcher
+* 2015/03-2017/07: Postdoctoral Researcher in Nano-Engineering
   * University of California San Diego
 
 
