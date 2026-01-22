@@ -11,7 +11,7 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab, led 
 
 
 
-<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Semiconductor Digital Twin</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Semiconductor Digital Twins</a>
 ======
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
