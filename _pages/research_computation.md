@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Defect-Aware Digital Twin"
+title: "Defect-Aware Semiconductor Digital Twins"
 permalink: /research_computation/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-We aim to develop defect-aware predictive digital twins for diverse engineering applications by creating advanced models and simulations that represent defect initiation, evolution, and their impact on material performance.
+We develop defect-aware predictive digital twins for semiconductor materials and advanced packaging, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
 
-Reliability for Advanced Packaging with Defects:
+Reliability for Semiconductor Advanced Packaging with Defects:
 ------
-We utilize computational simulations and machine learning techniques to model failure mechanisms in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
+We utilize computational simulations and machine learning techniques to model failure mechanisms in semiconductor advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
 
 <a href="/publication/2025-5-Crack-Cu-Cu-Bond" style="font-size: 18px; font-weight: bold;">Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding</a>
 
@@ -22,9 +22,9 @@ We utilize computational simulations and machine learning techniques to model fa
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 18px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
 
 
-Simulating Defects at Interfaces in Materials:
+Simulating Defects at Materials Interfaces:
 ------
-We explore the impact of various interfaces on material properties to uncover fundamental mechanisms, empowering us to design advanced materials through strategic interfacial engineering.
+We investigate how defects—including dopants, impurities, vacancies, and dislocations—influence material properties and performance at critical interfaces such as grain boundaries and phase boundaries. Through advanced atomistic and multi-scale simulations, we aim to uncover the fundamental mechanisms governing defect nucleation, segregation, migration, and interaction at these interfaces.
 
 <a href="/publication/2018-02-PRL-interface-phase" style="font-size: 18px; font-weight: bold;">First-order interfacial transformations with a critical point: breaking the symmetry at a symmetric tilt grain boundary’ mechanical properties</a>
 
@@ -36,9 +36,9 @@ We explore the impact of various interfaces on material properties to uncover fu
 
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten under tensile strains</a>
 
-Concurrent Atomistic and Continuum Methodology to Simulate Defect Dynamics:
+Concurrent Atomistic-Continuum Methods for Defect Dynamics:
 ------
-We develop advanced multiscale simulation methods that integrate atomic and continuum scales to predict mechanical and thermal behaviors of defects in microstructurally complex materials with high efficiency and accuracy.
+We develop advanced multiscale simulation methodologies that seamlessly bridge atomistic and continuum scales. These frameworks enable efficient and accurate prediction of defect nucleation, migration, and interaction in microstructurally complex materials.
 
 <a href="/publication/2013-01-CAC-single-crystal" style="font-size: 18px; font-weight: bold;">Concurrent atomistic and continuum simulation of strontium titanate</a>
 
@@ -51,7 +51,7 @@ We develop advanced multiscale simulation methods that integrate atomic and cont
 
 Modeling Defects in Advanced Energy Materials:
 ------
-The research uses advanced computational techniques to design state-of-the-art materials and structures for diverse energy applications, including Li-ion batteries.
+We use advanced computational modeling and simulation to understand and engineer defect–structure–property relationships, guiding the design of next-generation lithium-ion batteries, solid-state electrolytes, and beyond.
 
 <a href="/publication/2025-04-Lithium-storage" style="font-size: 18px; font-weight: bold;">Lithium storage mechanisms and electrochemical behavior of a molybdenum disulfide nanoparticle anode</a>
 
