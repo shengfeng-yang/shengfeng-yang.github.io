@@ -14,12 +14,13 @@ This research project focuses on the development of advanced algorithms and mode
 
 Young Robotics Team
 ------
-Shengfeng Yang (PI), Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Sardar Konurbayev, Fabricio Giusti, Gavin Forrest, Junho Yoon
+Shengfeng Yang (PI), Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Fabricio Giusti, Gavin Forrest, Junho Yoon
 
-Project
+Projects
 ------
-Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 GPU hours); 12/2025-12/2026
+Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 Computing Credits); 12/2025-12/2026
 
+Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Action Models through Spatial Computing"; Source of Support: Spatial Computing Hub at Purdue University; Support: Apple Vision Pro device; 12/2025-12/2026
 
 Image Gallery
 ------
