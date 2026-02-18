@@ -11,7 +11,7 @@ Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab at Pu
 
 While most AI models learns from data alone and physical simulations often ignore real-world variability, the ACAI Lab operates at the intersection of both. We develop intelligent systems that combine the adaptability of modern AI with the rigorous grounding of physical reasoning. By bridging this gap, we enable digital twins that predict failure before it occurs and robots that achieve dexterous autonomy in unstructured environments.
 
-Our Three Research Pillars:
+Our Three Research Areas:
 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Semiconductor Digital Twins</a>
 ======
