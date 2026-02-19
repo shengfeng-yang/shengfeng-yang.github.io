@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Defect-Aware Semiconductor Digital Twins"
+title: "Defect-Aware Predictive Digital Twins"
 permalink: /research_computation/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-We develop defect-aware predictive digital twins for semiconductor materials and advanced packaging, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
+We develop defect-aware predictive digital twins for engineering materials, including semiconductor materials, advanced packaging, and battery materials, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
 
 Reliability for Semiconductor Advanced Packaging with Defects:
 ------
@@ -20,6 +20,17 @@ We utilize computational simulations and machine learning techniques to model fa
 <a href="/publication/2025-6-TSV-modeling" style="font-size: 18px; font-weight: bold;">Modeling of Microstructural Evolution within TSVs Using Atomistic Simulations</a>
 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2436919" style="font-size: 18px; font-weight: bold;">A Machine Learning Framework for Preventing Cracking in Semiconductor Materials</a>
+
+
+Modeling Defects in Battery Materials:
+------
+We use advanced computational modeling and simulation to understand and engineer defect–structure–property relationships, guiding the design of next-generation lithium-ion batteries, solid-state electrolytes, and beyond.
+
+<a href="/publication/2025-04-Lithium-storage" style="font-size: 18px; font-weight: bold;">Lithium storage mechanisms and electrochemical behavior of a molybdenum disulfide nanoparticle anode</a>
+
+<a href="/publication/2021-09-Lithium-trapping" style="font-size: 18px; font-weight: bold;">Lithium trapping in germanium nanopores during delithiation process</a>
+
+<a href="/publication/2022-09-Porous" style="font-size: 18px; font-weight: bold;">Porous microstructures for ion storage in high capacity electrodes based on surface segregation-induced separation</a>
 
 
 Simulating Defects at Materials Interfaces:
@@ -36,6 +47,7 @@ We investigate how defects—including dopants, impurities, vacancies, and dislo
 
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten under tensile strains</a>
 
+
 Concurrent Atomistic-Continuum Methods for Defect Dynamics:
 ------
 We develop advanced multiscale simulation methodologies that seamlessly bridge atomistic and continuum scales. These frameworks enable efficient and accurate prediction of defect nucleation, migration, and interaction in microstructurally complex materials.
@@ -48,16 +60,6 @@ We develop advanced multiscale simulation methodologies that seamlessly bridge a
 
 <a href="/publication/2017-09-Phonon-transport" style="font-size: 18px; font-weight: bold;">Ballistic-diffusive phonon heat transport across grain boundaries</a>
 
-
-Modeling Defects in Advanced Energy Materials:
-------
-We use advanced computational modeling and simulation to understand and engineer defect–structure–property relationships, guiding the design of next-generation lithium-ion batteries, solid-state electrolytes, and beyond.
-
-<a href="/publication/2025-04-Lithium-storage" style="font-size: 18px; font-weight: bold;">Lithium storage mechanisms and electrochemical behavior of a molybdenum disulfide nanoparticle anode</a>
-
-<a href="/publication/2021-09-Lithium-trapping" style="font-size: 18px; font-weight: bold;">Lithium trapping in germanium nanopores during delithiation process</a>
-
-<a href="/publication/2022-09-Porous" style="font-size: 18px; font-weight: bold;">Porous microstructures for ion storage in high capacity electrodes based on surface segregation-induced separation</a>
 
 
 
