@@ -11,7 +11,7 @@ author_profile: true
 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Semiconductor Digital Twins</a>
 ======
-We develop defect-aware predictive digital twins for semiconductor materials and advanced packaging, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
+We develop defect-aware predictive digital twins for engineering materials, including semiconductor materials, advanced packaging, and battery materials, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
