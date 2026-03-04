@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
+======
+We focus on the development of advanced algorithms and AI models for physical intelligence for robotics. By integrating multimodal perception, natural language understanding, and intelligent manipulations, we aim to achieve autonomous and intelligent execution of complex manipulation tasks in unstructured real-world environments.
 
 <a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Predictive Digital Twins</a>
 ======
@@ -17,6 +19,4 @@ We develop defect-aware predictive digital twins for engineering materials, incl
 ======
 We develop scientific machine learning algorithms that integrate data-driven approaches with physics-based modeling to accelerate discovery, enhance prediction accuracy, and enable efficient solutions across diverse scientific and engineering domains.
 
-<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
-======
-We focus on the development of advanced algorithms and models for physical intelligence for robotics. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
+
