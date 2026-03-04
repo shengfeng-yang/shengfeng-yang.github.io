@@ -13,13 +13,13 @@ We develop Physical AI models that bridge the gap between simulation and reality
 
 Our Three Research Areas:
 
-<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Predictive Digital Twins</a>
+<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
 
 <a href="/research_ml" style="font-size: 25px; font-weight: bold;">Scientific Machine Learning</a>
 ======
 
-
-<a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
+<a href="/research_computation" style="font-size: 25px; font-weight: bold;">Defect-Aware Predictive Digital Twins</a>
 ======
+
 ![purdue-indysign](https://github.com/user-attachments/assets/c0fed355-6531-4077-859e-bc03f2933459)
