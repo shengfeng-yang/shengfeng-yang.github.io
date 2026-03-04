@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Defect-Aware Predictive Digital Twins"
+title: "Physical Modeling and Simulations"
 permalink: /research_computation/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-We develop defect-aware predictive digital twins for engineering materials, including semiconductor materials, advanced packaging, and battery materials, leveraging advanced modeling and simulation to capture defect initiation, evolution, and their effects on performance and reliability.
+We develop physical models and simulation methods for engineering materials and structures to efficiently and accurately capture the physical dynamics of defect initiation, evolution, and their effects on performance and reliability.
 
-Reliability for Semiconductor Advanced Packaging with Defects:
+Simulations of Defects in Advanced Packaging:
 ------
-We utilize computational simulations and machine learning techniques to model failure mechanisms in semiconductor advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
+We utilize computational simulations and machine learning techniques to simulate failure behaviors in advanced packaging, aiming to improve the reliability predictions and performance of microelectronic devices.
 
 <a href="/publication/2025-5-Crack-Cu-Cu-Bond" style="font-size: 18px; font-weight: bold;">Atomistic Modeling of Interfacial Cracking in Copper-To-Copper Direct Bonding</a>
 
@@ -48,7 +48,7 @@ We investigate how defects—including dopants, impurities, vacancies, and dislo
 <a href="/publication/2021-12-DFT-W-GB" style="font-size: 18px; font-weight: bold;">First-principles study of vacancy interaction with grain boundaries of tungsten under tensile strains</a>
 
 
-Concurrent Atomistic-Continuum Methods for Defect Dynamics:
+Concurrent Atomistic-Continuum Simulation Methods for Defect Dynamics:
 ------
 We develop advanced multiscale simulation methodologies that seamlessly bridge atomistic and continuum scales. These frameworks enable efficient and accurate prediction of defect nucleation, migration, and interaction in microstructurally complex materials.
 
