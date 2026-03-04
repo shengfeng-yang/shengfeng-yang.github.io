@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This research project focuses on the development of advanced algorithms and models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
+This research project focuses on the development of advanced algorithms and AI models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
 
 
 Young Robotics Team
