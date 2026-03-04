@@ -13,6 +13,7 @@ We develop Physical AI models that bridge the gap between simulation and reality
 
 Our Three Research Areas:
 
+
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
 
