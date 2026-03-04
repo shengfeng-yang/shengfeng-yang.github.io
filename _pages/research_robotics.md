@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This research project focuses on the development of advanced algorithms and AI models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of manipulation tasks in unstructured real-world environments.
+This research project focuses on the development of advanced algorithms and AI models for physical intelligence. By integrating multimodal perception (via Apple Vision Pro), natural language understanding, and intelligent manipulations on the Mobile ALOHA platform, we aim to achieve autonomous and intelligent execution of complex manipulation tasks in unstructured real-world environments.
 
 
 Young Robotics Team
@@ -18,7 +18,7 @@ Shengfeng Yang (PI), Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Fabricio 
 
 Projects
 ------
-Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 Computing Credits); 12/2025-12/2026
+Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 GPU Computing Credits); 12/2025-12/2026
 
 Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Action Models through Spatial Computing"; Source of Support: Spatial Computing Hub at Purdue University; Support: Apple Vision Pro device; 12/2025-12/2026
 
