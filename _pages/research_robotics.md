@@ -18,9 +18,9 @@ Shengfeng Yang (PI), Jonathan Hickle, Junbin Cui, Adam Mohd shahrizan, Fabricio 
 
 Projects
 ------
-Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 GPU Computing Credits); 12/2025-12/2026
+Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Models through Domain-Specific Adaptation"; Source of Support: NSF ACCESS; Award Number: #CIS251342 (750,000 GPU Computing Credits)
 
-Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Action Models through Spatial Computing"; Source of Support: Spatial Computing Hub at Purdue University; Support: Apple Vision Pro device; 12/2025-12/2026
+Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Action Models through Spatial Computing"; Source of Support: Spatial Computing Hub at Purdue University; Support: Apple Vision Pro device
 
 Title: "Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation"
 
