@@ -11,6 +11,7 @@ redirect_from:
 
 We develop scientific machine learning algorithms that integrate data-driven approaches with physics-based modeling to accelerate discovery, enhance prediction accuracy, and enable efficient solutions across diverse scientific and engineering domains.
 
+<a href="/publication/2026-3-Diffusion-Model-Cracking" style="font-size: 18px; font-weight: bold;">Diffusion-based Generative Machine Learning Model for Predicting Crack Propagation in Aluminum Nitride at the Atomic Scale/a>
 
 <a href="/publication/2024-03-uncertainty-DL" style="font-size: 18px; font-weight: bold;">Integrating uncertainty into deep learning models for enhanced prediction of nanocomposite materials’ mechanical properties</a>
 
