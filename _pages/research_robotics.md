@@ -24,7 +24,8 @@ Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Acti
 
 Title: "Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation"
 
-Project Website: https://shengfeng-yang.github.io/aloha-gamepad/
+Project Website: [https://shengfeng-yang.github.io/aloha-gamepad/](https://shengfeng-yang.github.io/aloha-gamepad/)
+
 
 [![Video Title](https://img.youtube.com/vi/95BbBLL41WI/0.jpg)](https://www.youtube.com/watch?v=95BbBLL41WI)
 
