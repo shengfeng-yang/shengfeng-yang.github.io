@@ -22,10 +22,11 @@ Title: "Fine-tuning Foundation Models for Robotic Manipulation: Advancing VLA Mo
 
 Title: "Immersive Teleoperation for Mobile ALOHA: Advancing Vision-Language-Action Models through Spatial Computing"; Source of Support: Spatial Computing Hub at Purdue University; Support: Apple Vision Pro device
 
-Title: "Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation"
+Title: "Leader-Free Mobile ALOHA"
+
+<a href="/publication/2026-3-Leader-free-mobile-ALOHA" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>
 
 Project Website: [https://shengfeng-yang.github.io/aloha-gamepad/](https://shengfeng-yang.github.io/aloha-gamepad/)
-
 
 [![Video Title](https://img.youtube.com/vi/95BbBLL41WI/0.jpg)](https://www.youtube.com/watch?v=95BbBLL41WI)
 
