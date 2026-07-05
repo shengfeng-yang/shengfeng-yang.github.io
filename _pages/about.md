@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab at Purdue University, led by Dr. Shengfeng Yang. Our vision is to build **Reliable Physical AI that learns in simulation and performs in the real world**.
+Welcome to the Advanced Computation and Artificial Intelligence (ACAI) Lab at Purdue University, led by Dr. Shengfeng Yang. Our vision is to build **Reliable and Efficient Physical AI engineered for the complexities of the real world**.
 
-We develop Physical AI models that bridge the gap between simulation and reality. By combining high-fidelity physical simulations, advanced machine learning, and real-world validation, we build predictive AI models that are both accurate and computationally efficient. Our approach reduces the reliance on resource-intensive experiments while ensuring real-world reliability.
+We develop Physical AI systems that bridge algorithmic intelligence and practical application. By combining advanced machine learning and rigorous real-world validation, we create predictive AI that is both accurate and computationally efficient. Our approach reduces the reliance on resource-intensive experiments while ensuring dependable real-world performance.
 
 Our Three Research Areas:
 
