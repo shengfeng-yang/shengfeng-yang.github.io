@@ -13,7 +13,6 @@ We develop Physical AI systems that bridge algorithmic intelligence and practica
 
 Our Three Research Areas:
 
-
 <a href="/research_robotics" style="font-size: 25px; font-weight: bold;">Physical Intelligence for Robotics</a>
 ======
 
