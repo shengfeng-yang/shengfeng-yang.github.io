@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-8-Collect_Schedule_Demon_VLA
 date: 2026-08-26
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'https://shengfeng-yang.github.io/aloha-gamepad/'
+paperurl: ''
 citation: 'S. Yang.  &quot;Collecting and Scheduling Demonstrations for Multi-Step Precision Manipulation with VLAs. &quot; <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2026.'
 ---
 
