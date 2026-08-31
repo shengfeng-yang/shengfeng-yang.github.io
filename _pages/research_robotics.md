@@ -13,10 +13,10 @@ This research project focuses on the development of advanced algorithms and AI m
 
 Projects
 ------
-<a href="[/publication/2026-8-Collect_Schedule_Demon_VLA](https://shengfeng-yang.github.io/publication/2026-8-Collect_Schedule_Demon_VLA)" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2026.
+<a href="https://shengfeng-yang.github.io/publication/2026-8-Collect_Schedule_Demon_VLA" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2026.
 
 
-<a href="[/publication/2026-3-Leader-free-mobile-ALOHA](https://shengfeng-yang.github.io/aloha-gamepad/)" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>
+<a href="https://shengfeng-yang.github.io/aloha-gamepad/" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>
 
 <a href="https://shengfeng-yang.github.io/real2sim2FEA/" style="font-size: 18px; font-weight: bold;">From Robot Task Data to Structural Load Spectra
 </a>
