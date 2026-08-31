@@ -20,7 +20,7 @@ A complete pipeline for applying vision-language-action (VLA) models to multi-st
 
 <a href="https://shengfeng-yang.github.io/aloha-gamepad/" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>
 
-A leader-arm-free teleoperation system that uses a standard gamepad with inverse kinematics to control the full Mobile ALOHA platform—both bimanual arms and the mobile base. 
+A leader-arm-free teleoperation system that uses a standard gamepad with inverse kinematics (IK) to control the full Mobile ALOHA platform—both bimanual arms and the mobile base. 
 
 <a href="https://shengfeng-yang.github.io/real2sim2FEA/" style="font-size: 18px; font-weight: bold;">Real2Sim2FEA: From Robot Task Data to Structural Load Spectra
 </a>
