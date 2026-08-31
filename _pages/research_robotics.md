@@ -13,14 +13,19 @@ This research project focuses on the development of advanced algorithms and AI m
 
 Projects
 ------
-<a href="https://shengfeng-yang.github.io/publication/2026-8-Collect_Schedule_Demon_VLA" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2026.
+<a href="https://shengfeng-yang.github.io/publication/2026-8-Collect_Schedule_Demon_VLA" style="font-size: 18px; font-weight: bold;">Collecting and Scheduling Demonstrations for Multi-Step Precision Manipulation with VLAs</a>, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2026. 
+
+A complete pipeline for applying vision-language-action (VLA) models to multi-step precision manipulation, and a systematic study of how those demonstrations should be scheduled during fine-tuning. 
 
 
 <a href="https://shengfeng-yang.github.io/aloha-gamepad/" style="font-size: 18px; font-weight: bold;">Leader-Free Mobile ALOHA: Gamepad-IK Teleoperation and VLA Fine-Tuning for Laboratory Manipulation</a>
 
-<a href="https://shengfeng-yang.github.io/real2sim2FEA/" style="font-size: 18px; font-weight: bold;">From Robot Task Data to Structural Load Spectra
+A leader-arm-free teleoperation system that uses a standard gamepad with inverse kinematics to control the full Mobile ALOHA platform—both bimanual arms and the mobile base. 
+
+<a href="https://shengfeng-yang.github.io/real2sim2FEA/" style="font-size: 18px; font-weight: bold;">Real2Sim2FEA: From Robot Task Data to Structural Load Spectra
 </a>
 
+A general method for turning a robot's recorded task data into load cases and cycle spectra for its own structure — then that method narrowed onto one bimanual ALOHA task, 557 episodes of it, and carried through to a solved upper-arm stress field. (ALOHA Mobile → MuJoCo → Ansys)
 
 Hardware and Compute
 ------
